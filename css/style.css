@@ -1,0 +1,33 @@
+.menu {
+    background: #e7e7e7;
+    line-height: 32px;
+    padding-top: 5px;
+}
+
+.menu-item, .menu-item:hover, .menu-item:visited {
+    margin: 0 5px;
+}
+
+.old-price {
+    text-decoration: line-through;
+}
+
+.new-price {
+    color: #f00;
+}
+
+.product-item{
+    border: 1px solid #dddddd;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+}
+
+.product-item-title{
+    font-size: 16px;
+}
+
+.product-item .thumbnail{
+    margin-bottom: 5px;
+}
+
